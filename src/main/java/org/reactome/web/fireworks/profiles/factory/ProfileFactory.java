@@ -9,7 +9,7 @@ import org.reactome.web.fireworks.profiles.model.ProfileColour;
 import org.reactome.web.fireworks.profiles.model.ProfileGradient;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class ProfileFactory {
 

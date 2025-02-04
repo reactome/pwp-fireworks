@@ -8,7 +8,7 @@ import org.reactome.web.fireworks.search.details.DetailsInfoPanel;
 import org.reactome.web.pwp.model.client.classes.DatabaseObject;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class PathwayPanel extends FlowPanel {
 

@@ -11,7 +11,7 @@ import org.reactome.web.fireworks.handlers.AnalysisPerformedHandler;
 import java.util.List;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class AnalysisPerformedEvent extends GwtEvent<AnalysisPerformedHandler> {
     public static Type<AnalysisPerformedHandler> TYPE = new Type<>();

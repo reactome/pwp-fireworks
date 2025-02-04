@@ -15,7 +15,7 @@ import org.reactome.web.fireworks.profiles.model.Profile;
 import java.util.List;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class ProfilesTabPanel extends Composite implements ChangeHandler, ProfileChangedHandler {
     private EventBus eventBus;

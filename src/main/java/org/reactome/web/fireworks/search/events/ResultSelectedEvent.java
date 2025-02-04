@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.search.SearchResultObject;
 import org.reactome.web.fireworks.search.handlers.ResultSelectedHandler;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class ResultSelectedEvent extends GwtEvent<ResultSelectedHandler> {
     public static Type<ResultSelectedHandler> TYPE = new Type<>();

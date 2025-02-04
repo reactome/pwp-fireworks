@@ -3,7 +3,7 @@ package org.reactome.web.fireworks.util;
 import org.reactome.web.fireworks.model.Node;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public interface FocusAnimationHandler {
 

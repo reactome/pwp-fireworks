@@ -9,7 +9,7 @@ import org.reactome.web.fireworks.handlers.*;
 import org.reactome.web.fireworks.model.Node;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FireworksInfo extends AbsolutePanel implements FireworksZoomHandler,
         NodeHoverHandler, NodeHoverResetHandler, NodeSelectedHandler, NodeSelectedResetHandler {

@@ -6,7 +6,7 @@ import org.reactome.web.fireworks.util.ColorMap;
 import org.reactome.web.fireworks.util.gradient.ThreeColorGradient;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public final class FireworksProfile {
 

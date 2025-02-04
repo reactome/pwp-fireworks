@@ -18,8 +18,8 @@ import org.reactome.web.fireworks.util.ColorMap;
 import java.util.Map;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class RegulationLegend extends LegendPanel implements AnalysisPerformedHandler, AnalysisResetHandler,
         NodeHoverHandler, NodeHoverResetHandler, NodeSelectedHandler, NodeSelectedResetHandler,

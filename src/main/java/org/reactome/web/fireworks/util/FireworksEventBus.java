@@ -8,7 +8,7 @@ import org.reactome.web.fireworks.client.FireworksFactory;
 import java.util.Date;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FireworksEventBus extends SimpleEventBus {
 

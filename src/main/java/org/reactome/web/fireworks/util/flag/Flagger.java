@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * Fun with flags!
  *
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class Flagger {
     private static final String SEARCH = "/ContentService/search/fireworks/flag?query=##term##&species=##species##&includeInteractors=##includeInteractors##";

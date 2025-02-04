@@ -29,7 +29,7 @@ import java.util.stream.Collectors;
 import static org.reactome.web.fireworks.search.events.ResultSelectedEvent.ResultType.GLOBAL;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class GlobalSearchResultsWidget extends Composite implements ResultsWidget, SelectionChangeEvent.Handler {
 

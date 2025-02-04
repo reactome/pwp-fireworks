@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.EventHandler;
 import org.reactome.web.fireworks.events.NodeHoverEvent;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public interface NodeHoverHandler extends EventHandler {
 

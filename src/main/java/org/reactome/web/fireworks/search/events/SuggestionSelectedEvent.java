@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.model.Node;
 import org.reactome.web.fireworks.search.handlers.SuggestionSelectedHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class SuggestionSelectedEvent extends GwtEvent<SuggestionSelectedHandler> {
     public static Type<SuggestionSelectedHandler> TYPE = new Type<>();

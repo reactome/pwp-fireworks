@@ -4,7 +4,7 @@ import com.google.gwt.core.client.GWT;
 import org.reactome.web.fireworks.client.FireworksFactory;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 @SuppressWarnings("UnusedDeclaration")
 public abstract class Console {

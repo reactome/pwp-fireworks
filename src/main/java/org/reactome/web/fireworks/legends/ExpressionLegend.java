@@ -18,7 +18,7 @@ import org.reactome.web.fireworks.profiles.FireworksProfile;
 import org.reactome.web.fireworks.util.gradient.ThreeColorGradient;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class ExpressionLegend extends LegendPanel implements AnalysisPerformedHandler, AnalysisResetHandler,
         NodeHoverHandler, NodeHoverResetHandler, NodeSelectedHandler, NodeSelectedResetHandler,

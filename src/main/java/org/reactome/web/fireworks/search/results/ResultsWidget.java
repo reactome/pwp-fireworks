@@ -11,7 +11,7 @@ import org.reactome.web.fireworks.search.results.data.model.FacetContainer;
 import java.util.List;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public interface ResultsWidget extends IsWidget {
 

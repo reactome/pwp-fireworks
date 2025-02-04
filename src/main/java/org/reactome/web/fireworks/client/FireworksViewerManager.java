@@ -16,7 +16,7 @@ import uk.ac.ebi.pwp.structures.quadtree.client.QuadTreeBox;
 import java.util.*;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 class FireworksViewerManager implements MovementAnimation.FireworksZoomAnimationHandler,
         FireworksResizeHandler, ThumbnailAreaMovedHandler, FocusAnimationHandler {

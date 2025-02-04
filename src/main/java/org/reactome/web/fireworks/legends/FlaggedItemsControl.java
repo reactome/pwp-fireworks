@@ -20,7 +20,7 @@ import org.reactome.web.fireworks.model.Node;
 import java.util.Collection;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class FlaggedItemsControl extends LegendPanel implements ClickHandler, ChangeHandler,
         NodeFlaggedHandler, NodeFlaggedResetHandler, NodeFlagRequestedHandler {

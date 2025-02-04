@@ -23,7 +23,7 @@ import org.reactome.web.fireworks.search.results.ResultItem;
  * information about the selected item, such as name, accession,
  * type, compartment etc.
  *
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class TitlePanel extends FlowPanel implements ClickHandler,
         NodeFlaggedHandler, NodeFlaggedResetHandler {

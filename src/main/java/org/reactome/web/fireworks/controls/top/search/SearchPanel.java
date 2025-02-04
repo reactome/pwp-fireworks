@@ -13,7 +13,7 @@ import org.reactome.web.fireworks.search.results.ResultsPanel;
 
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class SearchPanel extends FlowPanel {
 

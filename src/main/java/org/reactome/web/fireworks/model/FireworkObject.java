@@ -4,7 +4,7 @@ import org.reactome.web.fireworks.interfaces.Movable;
 import org.reactome.web.fireworks.interfaces.Zoomable;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public abstract class FireworkObject implements Movable, Zoomable {
 

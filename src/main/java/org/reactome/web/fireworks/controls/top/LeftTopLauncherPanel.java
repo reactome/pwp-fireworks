@@ -11,7 +11,7 @@ import org.reactome.web.fireworks.model.Graph;
 
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class LeftTopLauncherPanel extends FlowPanel {
 

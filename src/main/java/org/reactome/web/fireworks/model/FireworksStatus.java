@@ -4,7 +4,7 @@ import org.reactome.web.fireworks.util.Coordinate;
 import uk.ac.ebi.pwp.structures.quadtree.client.Box;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FireworksStatus {
     /**

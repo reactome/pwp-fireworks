@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import org.reactome.web.fireworks.handlers.NodeSelectedResetHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class NodeSelectedResetEvent extends GwtEvent<NodeSelectedResetHandler> {
     public static Type<NodeSelectedResetHandler> TYPE = new Type<NodeSelectedResetHandler>();

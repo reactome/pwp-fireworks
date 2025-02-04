@@ -18,7 +18,7 @@ import org.reactome.web.fireworks.handlers.NodeSelectedHandler;
 import org.reactome.web.fireworks.handlers.NodeSelectedResetHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class MainControlPanel extends FlowPanel implements ClickHandler, NodeSelectedHandler, NodeSelectedResetHandler {
 

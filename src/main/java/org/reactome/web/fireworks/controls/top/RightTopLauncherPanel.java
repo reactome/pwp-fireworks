@@ -14,7 +14,7 @@ import org.reactome.web.fireworks.controls.top.key.PathwayOverviewKey;
 import org.reactome.web.fireworks.events.CanvasExportRequestedEvent;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class RightTopLauncherPanel extends FlowPanel implements ClickHandler {
 

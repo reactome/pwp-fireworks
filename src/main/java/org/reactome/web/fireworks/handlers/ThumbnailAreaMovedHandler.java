@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.events.NodeHoverEvent;
 import org.reactome.web.fireworks.events.ThumbnailAreaMovedEvent;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public interface ThumbnailAreaMovedHandler extends EventHandler {
 

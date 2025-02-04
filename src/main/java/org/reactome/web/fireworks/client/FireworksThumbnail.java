@@ -22,7 +22,7 @@ import org.reactome.web.fireworks.util.Coordinate;
 import java.util.Set;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 class FireworksThumbnail extends AbsolutePanel implements HasHandlers, MouseDownHandler, MouseMoveHandler, MouseUpHandler, MouseOutHandler,
         AnalysisPerformedHandler, AnalysisResetHandler, ExpressionColumnChangedHandler, ProfileChangedHandler, OverlayTypeChangedHandler,

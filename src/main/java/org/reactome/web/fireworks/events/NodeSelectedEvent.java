@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.handlers.NodeSelectedHandler;
 import org.reactome.web.fireworks.model.Node;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class NodeSelectedEvent extends GwtEvent<NodeSelectedHandler> {
     public static Type<NodeSelectedHandler> TYPE = new Type<>();

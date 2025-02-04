@@ -13,7 +13,7 @@ import org.reactome.web.fireworks.events.SearchItemSelectedEvent;
 import org.reactome.web.pwp.model.client.classes.DatabaseObject;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 
 abstract class InfoActionsHelper {

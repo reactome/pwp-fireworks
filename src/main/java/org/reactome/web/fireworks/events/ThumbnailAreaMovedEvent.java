@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.handlers.ThumbnailAreaMovedHandler;
 import org.reactome.web.fireworks.util.Coordinate;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class ThumbnailAreaMovedEvent extends GwtEvent<ThumbnailAreaMovedHandler> {
     public static Type<ThumbnailAreaMovedHandler> TYPE = new Type<ThumbnailAreaMovedHandler>();

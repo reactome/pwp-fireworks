@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import org.reactome.web.fireworks.handlers.FireworksLoadedHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FireworksLoadedEvent extends GwtEvent<FireworksLoadedHandler> {
     public static Type<FireworksLoadedHandler> TYPE = new Type<FireworksLoadedHandler>();
