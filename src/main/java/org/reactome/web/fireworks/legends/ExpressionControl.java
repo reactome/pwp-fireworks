@@ -26,7 +26,7 @@ import java.util.List;
 
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class ExpressionControl extends LegendPanel implements ClickHandler, SliderValueChangedHandler,
         AnalysisPerformedHandler, AnalysisResetHandler, ValueChangeHandler<Boolean> {

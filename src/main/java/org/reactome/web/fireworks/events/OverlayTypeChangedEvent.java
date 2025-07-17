@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import org.reactome.web.fireworks.handlers.OverlayTypeChangedHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class OverlayTypeChangedEvent extends GwtEvent<OverlayTypeChangedHandler> {
     public static Type<OverlayTypeChangedHandler> TYPE = new Type<>();

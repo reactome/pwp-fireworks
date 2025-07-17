@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.handlers.ProfileChangedHandler;
 import org.reactome.web.fireworks.profiles.model.Profile;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class ProfileChangedEvent extends GwtEvent<ProfileChangedHandler> {
     public static Type<ProfileChangedHandler> TYPE = new Type<ProfileChangedHandler>();

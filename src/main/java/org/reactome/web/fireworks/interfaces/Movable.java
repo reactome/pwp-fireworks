@@ -3,7 +3,7 @@ package org.reactome.web.fireworks.interfaces;
 import org.reactome.web.fireworks.util.Coordinate;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public interface Movable {
 

@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import org.reactome.web.fireworks.handlers.NodeFlaggedResetHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class NodeFlaggedResetEvent  extends GwtEvent<NodeFlaggedResetHandler> {
     public final static Type<NodeFlaggedResetHandler> TYPE = new Type<>();

@@ -16,7 +16,7 @@ import org.reactome.web.fireworks.model.Node;
 import java.util.Objects;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class ToolTipContainer extends AbsolutePanel implements NodeHoverHandler, NodeHoverResetHandler,
         FireworksZoomHandler {

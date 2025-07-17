@@ -3,7 +3,7 @@ package org.reactome.web.fireworks.util.gradient;
 import org.reactome.web.fireworks.util.Color;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 class TwoColorGradient {
 

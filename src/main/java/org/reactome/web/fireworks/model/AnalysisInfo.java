@@ -4,7 +4,7 @@ import org.reactome.web.analysis.client.model.AnalysisType;
 import org.reactome.web.analysis.client.model.ExpressionSummary;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class AnalysisInfo {
 

@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import org.reactome.web.fireworks.handlers.SearchItemHoveredHandler;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class SearchItemHoveredEvent extends GwtEvent<SearchItemHoveredHandler> {
     public static Type<SearchItemHoveredHandler> TYPE = new Type<>();

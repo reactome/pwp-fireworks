@@ -12,7 +12,7 @@ import java.util.List;
  * This object is meant to be drawn in the canvas but it is not a
  * Fireworks object
  *
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class Edge implements Drawable, QuadTreeBox {
 

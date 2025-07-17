@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import org.reactome.web.fireworks.handlers.FireworksResizeHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FireworksResizedEvent extends GwtEvent<FireworksResizeHandler> {
     public static Type<FireworksResizeHandler> TYPE = new Type<FireworksResizeHandler>();

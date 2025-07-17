@@ -13,7 +13,7 @@ import org.reactome.web.pwp.model.client.factory.DatabaseObjectImages;
 import java.util.Collection;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class DatabaseObjectListPanel extends FlowPanel {
 

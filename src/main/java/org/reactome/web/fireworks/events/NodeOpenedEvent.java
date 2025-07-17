@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.handlers.NodeOpenedHandler;
 import org.reactome.web.fireworks.model.Node;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class NodeOpenedEvent extends GwtEvent<NodeOpenedHandler> {
 

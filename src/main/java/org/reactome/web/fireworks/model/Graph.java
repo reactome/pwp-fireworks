@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.Set;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class Graph {
     Long speciesId;

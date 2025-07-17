@@ -13,7 +13,7 @@ import org.reactome.web.fireworks.controls.common.IconButton;
 import org.reactome.web.fireworks.events.ControlActionEvent;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class NavigationControlPanel extends AbsolutePanel implements ClickHandler {
 

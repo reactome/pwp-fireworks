@@ -5,7 +5,7 @@ import com.google.gwt.animation.client.Animation;
 /**
  * First centers the node and then apply the zoom until it fits the visible area
  *
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FocusInAnimation extends Animation {
     /**

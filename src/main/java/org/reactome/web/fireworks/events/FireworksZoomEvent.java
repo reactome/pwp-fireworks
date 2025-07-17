@@ -6,7 +6,7 @@ import org.reactome.web.fireworks.model.FireworksStatus;
 import org.reactome.web.fireworks.util.Coordinate;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FireworksZoomEvent extends GwtEvent<FireworksZoomHandler> {
     public static Type<FireworksZoomHandler> TYPE = new Type<FireworksZoomHandler>();

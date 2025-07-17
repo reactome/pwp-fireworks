@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.handlers.FireworksVisibleAreaChangedHandler;
 import org.reactome.web.fireworks.util.Coordinate;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FireworksVisibleAreaChangedEvent extends GwtEvent<FireworksVisibleAreaChangedHandler> {
     public static Type<FireworksVisibleAreaChangedHandler> TYPE = new Type<FireworksVisibleAreaChangedHandler>();

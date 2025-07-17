@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.handlers.NodeHoverHandler;
 import org.reactome.web.fireworks.model.Node;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class NodeHoverEvent extends GwtEvent<NodeHoverHandler> {
     public static Type<NodeHoverHandler> TYPE = new Type<NodeHoverHandler>();

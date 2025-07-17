@@ -5,7 +5,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import org.reactome.web.fireworks.search.handlers.PanelCollapsedHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class PanelCollapsedEvent extends GwtEvent<PanelCollapsedHandler> {
     public static Type<PanelCollapsedHandler> TYPE = new Type<>();

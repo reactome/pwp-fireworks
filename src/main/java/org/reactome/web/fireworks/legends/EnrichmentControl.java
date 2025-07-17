@@ -16,7 +16,7 @@ import org.reactome.web.fireworks.handlers.AnalysisResetHandler;
 import org.reactome.web.fireworks.handlers.OverlayTypeChangedHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class EnrichmentControl extends LegendPanel implements ClickHandler, ChangeHandler,
         AnalysisPerformedHandler, AnalysisResetHandler, OverlayTypeChangedHandler {

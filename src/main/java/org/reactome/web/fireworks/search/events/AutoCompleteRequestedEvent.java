@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import org.reactome.web.fireworks.search.handlers.AutoCompleteRequestedHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class AutoCompleteRequestedEvent extends GwtEvent<AutoCompleteRequestedHandler> {
     public static Type<AutoCompleteRequestedHandler> TYPE = new Type<>();

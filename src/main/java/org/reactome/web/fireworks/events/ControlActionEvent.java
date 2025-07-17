@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.controls.navigation.ControlAction;
 import org.reactome.web.fireworks.handlers.ControlActionHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class ControlActionEvent extends GwtEvent<ControlActionHandler> {
     public static Type<ControlActionHandler> TYPE = new Type<>();

@@ -15,7 +15,7 @@ import com.google.gwt.user.client.ui.Widget;
 import org.reactome.web.fireworks.legends.ControlButton;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public abstract class AbstractMenuDialog extends DialogBox implements ClickHandler {
 

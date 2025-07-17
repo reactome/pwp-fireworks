@@ -7,7 +7,7 @@ import org.reactome.web.fireworks.search.events.PanelExpandedEvent;
 
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class AbstractAccordionPanel extends FlowPanel implements SearchAccordionPanel {
 

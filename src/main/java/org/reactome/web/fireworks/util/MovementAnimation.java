@@ -3,7 +3,7 @@ package org.reactome.web.fireworks.util;
 import com.google.gwt.animation.client.Animation;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class MovementAnimation extends Animation {
 

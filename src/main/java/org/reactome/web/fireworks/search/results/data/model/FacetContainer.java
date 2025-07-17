@@ -1,7 +1,7 @@
 package org.reactome.web.fireworks.search.results.data.model;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public interface FacetContainer {
 

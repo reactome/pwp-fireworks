@@ -17,7 +17,7 @@ import org.reactome.web.fireworks.handlers.ProfileChangedHandler;
 import org.reactome.web.fireworks.profiles.FireworksColours;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class PathwayOverviewKey extends AbstractMenuDialog implements ProfileChangedHandler, NodeOpenedHandler {
 

@@ -4,7 +4,7 @@ import com.google.gwt.animation.client.Animation;
 import org.reactome.web.fireworks.model.Node;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FocusOutAnimation extends Animation {
 

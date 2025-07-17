@@ -5,7 +5,7 @@ import org.reactome.web.fireworks.search.events.PanelCollapsedEvent;
 
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public interface PanelCollapsedHandler extends EventHandler {
     void onPanelCollapsed(PanelCollapsedEvent event);

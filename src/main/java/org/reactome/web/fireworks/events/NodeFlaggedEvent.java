@@ -7,7 +7,7 @@ import org.reactome.web.fireworks.model.Node;
 import java.util.Collection;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class NodeFlaggedEvent extends GwtEvent<NodeFlaggedHandler> {
     public static final Type<NodeFlaggedHandler> TYPE = new Type<>();

@@ -14,7 +14,7 @@ import uk.ac.ebi.pwp.structures.quadtree.client.QuadTreeBox;
 import java.util.*;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 @SuppressWarnings("UnusedDeclaration")
 public class Node extends FireworkObject implements Drawable, QuadTreeBox, Comparable<Node> {
